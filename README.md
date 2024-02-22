@@ -8,6 +8,6 @@
 
 #### My Stat's
 
-[![Anurag's GitHub stats](https://github-readme-stats-kappa-eight-24.vercel.app/api?username=lopesvictor1&show_icons=true&theme=dark)](https://github.com/lopesvictor1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-tan-tau.vercel.app/api?username=lopesvictor1&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/lopesvictor1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kappa-eight-24.vercel.app/api/top-langs/?username=lopesvictor1&layout=donut-vertical&theme=dark)](https://github.com/lopesvictor1/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-tau.vercel.app/api/top-langs/?username=lopesvictor1&layout=donut-vertical&theme=dark&langs_count=8&include_all_commits=true)](https://github.com/lopesvictor1/github-readme-stats)
