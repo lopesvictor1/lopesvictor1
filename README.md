@@ -3,7 +3,7 @@
 #### Here's some information about me:
 
 - 🔭 I’m currently working on Machine Learning Based Data Analysis
-- 🌱 I’m currently learning P4, Sci-Kit Learn
+- 🌱 I’m currently learning P4, Keras, Sci-Kit Learn and much more
 - 📫 How to reach me: victorlopesvictor@gmail.com
 
 #### My Stat's
