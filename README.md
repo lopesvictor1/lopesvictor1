@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there, my name is Victor Lopes👋
+### Welcome to my GitHub! 👌
+#### Here's some information about me:
 
-<!--
-**lopesvictor1/lopesvictor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Machine Learning Based Data Analysis
+- 🌱 I’m currently learning P4, Sci-Kit Learn
+- 📫 How to reach me: victorlopesvictor@gmail.com
 
-Here are some ideas to get you started:
+#### My Stat's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats-kappa-eight-24.vercel.app/api?username=lopesvictor1&show_icons=true&theme=dark)](https://github.com/lopesvictor1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-kappa-eight-24.vercel.app/api/top-langs/?username=lopesvictor1&layout=donut-vertical&theme=dark)](https://github.com/lopesvictor1/github-readme-stats)
